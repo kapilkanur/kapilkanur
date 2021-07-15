@@ -1,7 +1,7 @@
 👋 Hello there, 
 I’m Kapil Kanur, SDET from Hyderabad, India 🇮🇳
 
-I’m interested in figuring out different ways to break🔨 an application.
+I get paid to break🔨 applications.
 
 Currently learning Spring🍃 Framework.
 
